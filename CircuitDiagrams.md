@@ -18,4 +18,7 @@
 <p><img src="https://github.com/NicholasBerryman/ArduinoClassResources/blob/master/Diagrams/ReadPot.png?raw=true" alt="enter image description here"></p>
 <h2 id="circuit-7---servo-motor-with-pot-control">Circuit 7 - Servo motor with pot control</h2>
 <p><img src="https://github.com/NicholasBerryman/ArduinoClassResources/blob/master/Diagrams/ServoWithPot_bb.png?raw=true" alt="enter image description here"></p>
-
+<h2 id="circuit-8---Temperature-Sensor">Circuit 8 - Temperature Sensor</h2>
+<p><img src="https://github.com/NicholasBerryman/ArduinoClassResources/blob/master/Diagrams/TempSensor_bb.png?raw=true" alt="enter image description here"></p>
+<h2 id="circuit-9---LDR-with-LED">Circuit 9 - LDR with LED</h2>
+<p><img src="https://github.com/NicholasBerryman/ArduinoClassResources/blob/master/Diagrams/LDR_LED_bb.png?raw=true" alt="enter image description here"></p>
