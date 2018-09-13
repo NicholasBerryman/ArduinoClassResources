@@ -23,6 +23,6 @@
 <h2 id="circuit-9---LDR-with-LED">Circuit 9 - LDR with LED</h2>
 <p><img src="https://github.com/NicholasBerryman/ArduinoClassResources/blob/master/Diagrams/LDR_LED_bb.png?raw=true" alt="enter image description here"></p>
 <h2 id="circuit-10---Servo-with-Serial-Comms">Circuit 10 - Servo with Serial Comms</h2>
-<p><img src="https://github.com/NicholasBerryman/ArduinoClassResources/blob/master/Diagrams/ServoWithSerialComms.png.png?raw=true" alt="enter image description here"></p>
+<p><img src="https://github.com/NicholasBerryman/ArduinoClassResources/blob/master/Diagrams/ServoWithSerialComms.png?raw=true" alt="enter image description here"></p>
 <h2 id="circuit-11---Servo-with-IR-Comms">Circuit 11 - Servo with IR Comms</h2>
-<p><img src="https://github.com/NicholasBerryman/ArduinoClassResources/blob/master/Diagrams/ServoWithIRComms_bb.png.png?raw=true" alt="enter image description here"></p>
+<p><img src="https://github.com/NicholasBerryman/ArduinoClassResources/blob/master/Diagrams/ServoWithIRComms_bb.png?raw=true" alt="enter image description here"></p>
