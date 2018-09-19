@@ -47,7 +47,12 @@ C++ splits data between *simple* and *complex* types, with many different exampl
 			* Objects may also have operations associated with them (See the later section on **Objects** for more)  
 
 ### Variables
-Variables are names given to a block of memory in the computer running your programming. These blocks of memory may store different data at different points during program execution, and thus the value encoded by a
+Variables are names given to a block of memory in the computer running your programming. These blocks of memory may store different data at different points during program execution, and thus the value encoded by any single variable may change.  
+* **Syntax**
+	* **Initialisation**
+		* Variables in C++ m
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNTY1ODcxLC0xNjc5Njc5MjgxXX0=
+eyJoaXN0b3J5IjpbLTQyMDU5MDQ5MywtMTY3OTY3OTI4MV19
 -->
