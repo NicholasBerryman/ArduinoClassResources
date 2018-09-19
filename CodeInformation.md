@@ -67,11 +67,11 @@ Function creation is complicated and beyond the scope of this document, so this 
 * **Syntax**
 	*  **Calling**
 		* Functions in C++ may be *called*. When a function is *called* then the code within that function is executed before any code after the function call is  executed. This function-encapsulated code is often hidden from the person using the function (normally in some other file somewhere).
-		* Functions may be given *parameters*. *Parameters* are the pieces of data that functions use 
+		* Functions may be given *parameters*. *Parameters* are the pieces of data that functions use to complete the objective of the function (often calculating some value)
+			* Parameters may be variables, literals, or return values
 		* <*function name*> ( <*parameter1*> , <*parameter2*>, <etc.> );
-			* 
+			* Print( 5 ); (Prints the 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjAwMzU4ODAsLTE2Nzk2NzkyODFdfQ
-==
+eyJoaXN0b3J5IjpbLTYwNDAzNTA0NiwtMTY3OTY3OTI4MV19
 -->
