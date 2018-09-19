@@ -8,8 +8,6 @@ The Arduino website also contains a reference sheet for all Arduino-specific pro
 This document also aims to provide a reference for beginners to C++ and Arduino programming to assist in creating basic Arduino programs.
 
 ## C++
-### Introduction
-Arduino uses a flavour of the C++ programming language designed for use within the Arduino IDE. As such all native C++ syntax features are supported, though not all native libraries are supported and many new, Arduino-specific libraries are available. 
 
 ### Data representation
 Any programming language must represent real-life information in some way in order to allow actions to be formed in response to this information.  
@@ -80,5 +78,6 @@ Function creation is complicated and beyond the scope of this document, so this 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2NzU2NDAwOSwtMTY3OTY3OTI4MV19
+eyJoaXN0b3J5IjpbLTExNTMyOTY3MjMsMTQ2NzU2NDAwOSwtMT
+Y3OTY3OTI4MV19
 -->
