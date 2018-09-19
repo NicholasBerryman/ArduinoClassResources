@@ -1,11 +1,13 @@
 # Programming Reference for Arduino
+## Introduction
+The Ardu
 ## C++
 ### Introduction
 Arduino uses a flavour of the C++ programming language designed for use within the Arduino IDE. As such all native C++ syntax features are supported, though not all native libraries are supported and many new, Arduino-specific libraries are available. 
 
 ### Data representation
-Any programming language must represent real-life information in some way in order to allow actions to be formed in response to this information.
-Please note that each subheading here has its own section in this document, so have a look there if you need 
+Any programming language must represent real-life information in some way in order to allow actions to be formed in response to this information.  
+Please note that each subheading here has its own section in this document, so have a look there if you need more information.  
 Data in C++ may be represented in 3 ways:
 * Literals
 	* Values directly typed into the code
@@ -18,7 +20,7 @@ Data in C++ may be represented in 3 ways:
 	* The result of some *function*
 	* e.g. The function *func(x)* may give a *return value* of x+5, so *func(3)* would give a *return value* of 8
 
-These representation methods may be used interchangeably - anywhere you use a literal, you can also use a variable or a return value (and vice-versa).  
+These representation methods may be used more-or-less interchangeably - anywhere you use a literal, you can also use a variable or a return value (and vice-versa).  
   
 Any data must also be given a *data type*. This *data type* tells the program what operations are allowed on that data (e.g. addition on numbers, not on letters).
 C++ splits data between *simple* and *complex* types, with many different examples of each:
@@ -39,7 +41,6 @@ C++ splits data between *simple* and *complex* types, with many different exampl
 			* Objects may also have operations associated with them (See the later section on **Objects** for more)  
 
 
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDMzMjk5Mzc1LC0xNjc5Njc5MjgxXX0=
+eyJoaXN0b3J5IjpbODgwMzM5MDYyLC0xNjc5Njc5MjgxXX0=
 -->
