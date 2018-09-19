@@ -5,7 +5,7 @@ The Arduino development platform utilises a flavour of the C++ programming langu
 There are countless C++ tutorials in website, video and book form that may be used to gain the C++ background necessary for Arduino programming.  
 The Arduino website also contains a reference sheet for all Arduino-specific programming information, though it may not make much sense until you are generally familiar with C++. This can be found at: https://www.arduino.cc/reference/en/
 
-This document also aims to 
+This document also aims to provide a reference for beginners to C++ and Arduino programming.
 
 ## C++
 ### Introduction
@@ -26,7 +26,7 @@ Data in C++ may be represented in 3 ways:
 	* The result of some *function*
 	* e.g. The function *func(x)* may give a *return value* of x+5, so *func(3)* would give a *return value* of 8
 
-These representation methods may be used more-or-less interchangeably - anywhere you use a literal, you can also use a variable or a return value (and vice-versa).  
+These representation methods may be used more-or-less interchangeably - almost anywhere you use a literal, you can also use a variable or a return value (and vice-versa).  
   
 Any data must also be given a *data type*. This *data type* tells the program what operations are allowed on that data (e.g. addition on numbers, not on letters).
 C++ splits data between *simple* and *complex* types, with many different examples of each:
@@ -46,7 +46,8 @@ C++ splits data between *simple* and *complex* types, with many different exampl
 		* **Objects** - A set of data, which may have different types to each-other
 			* Objects may also have operations associated with them (See the later section on **Objects** for more)  
 
+### Variables
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkwOTU5ODQyLC0xNjc5Njc5MjgxXX0=
+eyJoaXN0b3J5IjpbLTkwMTIwODE0OSwtMTY3OTY3OTI4MV19
 -->
