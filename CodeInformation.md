@@ -52,10 +52,13 @@ Variables are names given to a block of memory in the computer running your prog
 	*  **Declaration**
 		* Variables in C++ must be declared before they are used. This is so that the program knows how much memory it should allocate for its variables
 		* <*data type*> \<name>;
-			* **int** x; (Creates a variable called *x*, storing integer
-	* **Initialisation**
+			* **int** x; (Creates a variable called *x*, storing integers)
+			* **bool** trueOrFalse; (Creates a variable call *trueOrFalse*, storing boolean values)
+	* **Assignment**
+		* The value stored in a variable may be changed by *assigning* a new value
+		* The *=* symbol is used to assign data
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2MTk2NTI1MCwtMTY3OTY3OTI4MV19
+eyJoaXN0b3J5IjpbMTUyOTEwNTkxNiwtMTY3OTY3OTI4MV19
 -->
