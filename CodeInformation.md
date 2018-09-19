@@ -76,9 +76,9 @@ Function creation is complicated and beyond the scope of this document, so this 
 	* **Importing**
 		* Functions often aren't available by default, and so must be imported from some other file (known as a code library file)
 		* #include < <*library file name*> >
-			* #include <Math.h> (Allows you to use any function defined in the file *Math.
+			* #include <Math.h> (Allows you to use any function defined in the file *Math.h*
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NTAxNTk3OSwtMTY3OTY3OTI4MV19
+eyJoaXN0b3J5IjpbMTQ2NzU2NDAwOSwtMTY3OTY3OTI4MV19
 -->
