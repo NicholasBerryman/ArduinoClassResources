@@ -71,8 +71,10 @@ Function creation is complicated and beyond the scope of this document, so this 
 			* Parameters may be variables, literals, or return values
 		* <*function name*> ( <*parameter1*> , <*parameter2*>, <etc.> );
 			* Print( 5 ); (Runs the *Print* function with 5 as a parameter)
-			*  x = Add( 5, 2 ); (Runs the *Add* function with parameters 5 and 2, and assigns
+			*  x = Add( 5, 2 ); (Runs the *Add* function with parameters 5 and 2, and assigns the result to the variable x)
+			* x = Add( 10, Add( 5, 2 ) ) (Runs the *Add* function with parameters 5 and whatever the result of *Add( 5, 2 )* is (as per above), and assigns the fin to x
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MTIxNDY1LC0xNjc5Njc5MjgxXX0=
+eyJoaXN0b3J5IjpbLTE5NjMxOTkwMjIsLTE2Nzk2NzkyODFdfQ
+==
 -->
