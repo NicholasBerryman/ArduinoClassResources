@@ -50,11 +50,11 @@ C++ splits data between *simple* and *complex* types, with many different exampl
 Variables are names given to a block of memory in the computer running your programming. These blocks of memory may store different data at different points during program execution, and thus the value encoded by any single variable may change.  
 * **Syntax**
 	*  **Declaration**
-		* Variables in C++ must be declared before they are used. This is so that the program knows wh
+		* Variables in C++ must be declared before they are used. This is so that the program knows how much memory it should allocate for its variables
+		* <*data type*> <name>
 	* **Initialisation**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTAzMjA4NTcsLTE2Nzk2NzkyODFdfQ
-==
+eyJoaXN0b3J5IjpbMjEzNTM1ODUwMiwtMTY3OTY3OTI4MV19
 -->
