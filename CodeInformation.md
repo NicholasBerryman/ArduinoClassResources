@@ -16,8 +16,8 @@ Any programming language must represent real-life information in some way in ord
 Please note that each subheading here has its own section in this document, so have a look there if you need more information.  
 Data in C++ may be represented in 3 ways:
 * Literals
-	* Values directly typed into the code
-	* e.g. 4, 'a', "Hello World"
+	* Values or equations directly typed into the code
+	* e.g. 4, 'a', "Hello World", 3+6, 8/2, etc.
 * Variables
 	* Names given to a block of memory that contains some data.
 	* Exact value encoded within a variable may change during program execution
@@ -57,12 +57,12 @@ Variables are names given to a block of memory in the computer running your prog
 	* **Assignment**
 		* The value stored in a variable may be changed by *assigning* a new value
 		* The value assigned to a variable must be of the same type as the variable being assigned to (i.e. int variables should be given int values, char variables must be given char values)
-		* <*name*> *=* <*new value*>;
+		* <*name*> *=* <*new value*>; (Note that *new value* may be a literal, a primitive, or a return value)
 			* x = 5; (Assigns the value of *5* to the variable x, as declared above)
-			* 
+			* y = x; (Assigns the value encoded by the variable x to the variab
 		
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2OTI4MTk2MiwtMTY3OTY3OTI4MV19
+eyJoaXN0b3J5IjpbOTQ2MDk5NjAxLC0xNjc5Njc5MjgxXX0=
 -->
