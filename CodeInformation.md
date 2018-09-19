@@ -1,6 +1,6 @@
 # Programming Reference for Arduino
 ## Introduction
-The Ardu
+The Arduino development platform utilises a flavour of the C++ programming language with some variations specific to the platform. As such any general C++ syntax (e.g. variable declaration, if-else, while loops, etc.) 
 ## C++
 ### Introduction
 Arduino uses a flavour of the C++ programming language designed for use within the Arduino IDE. As such all native C++ syntax features are supported, though not all native libraries are supported and many new, Arduino-specific libraries are available. 
@@ -42,5 +42,5 @@ C++ splits data between *simple* and *complex* types, with many different exampl
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgwMzM5MDYyLC0xNjc5Njc5MjgxXX0=
+eyJoaXN0b3J5IjpbMjI0NzA1MjE0LC0xNjc5Njc5MjgxXX0=
 -->
