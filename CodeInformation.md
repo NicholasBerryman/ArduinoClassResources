@@ -24,10 +24,10 @@ Any data must also be given a *data type*. This *data type* tells the program wh
 C++ splits data between *simple* and *complex* types, with many different examples of each:
 * Simple (AKA *primitive*)
 	* Only stores one piece of information, e.g. a single number, a single character
-	* C++ only supports 8 such simple data types:
-		* **int** - Whole number between 2^32^ and -2^32^
-		* **float** - Number that is not an
-		*  **char** - Character on the non-extended ASCII table (see: http://www.asciitable.com/)
+	* The major simple data types in c++ are:
+		* **int** - Whole number between 2^32^ and -2^32^ (int = *integer*)
+		* **float** - Number with a decimal point (float = *floating point number*)
+		*  **char** - Character on the non-extended ASCII table (see: http://www.asciitable.com/) (
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTgwOTQ0MSwtMTY3OTY3OTI4MV19
+eyJoaXN0b3J5IjpbMTM5MTY4MTQ2MCwtMTY3OTY3OTI4MV19
 -->
