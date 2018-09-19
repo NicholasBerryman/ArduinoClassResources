@@ -70,8 +70,9 @@ Function creation is complicated and beyond the scope of this document, so this 
 		* Functions may be given *parameters*. *Parameters* are the pieces of data that functions use to complete the objective of the function (often calculating some value)
 			* Parameters may be variables, literals, or return values
 		* <*function name*> ( <*parameter1*> , <*parameter2*>, <etc.> );
-			* Print( 5 ); (Prints the 
+			* Print( 5 ); (Runs the *Print* function with 5 as a parameter)
+			*  x = Add( 5, 2 ); (Runs the *Add* function with parameters 5 and 2, and assigns
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNDAzNTA0NiwtMTY3OTY3OTI4MV19
+eyJoaXN0b3J5IjpbLTQ4MTIxNDY1LC0xNjc5Njc5MjgxXX0=
 -->
