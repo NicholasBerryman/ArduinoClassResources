@@ -20,7 +20,8 @@ Data in C++ may be represented in 3 ways:
 
 These representation methods may be used interchangeably - anywhere you use a literal, you can also use a variable or a return value (and vice-versa).  
   
-Data must also be given a *type*, thi
+Any data must also be given a *data type*. This *data type* tells the program what operations are allowed on that data (e.g. addition on numbers
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwOTQzNDE5OCwtMTY3OTY3OTI4MV19
+eyJoaXN0b3J5IjpbLTEwNjgwODI5ODEsLTE2Nzk2NzkyODFdfQ
+==
 -->
