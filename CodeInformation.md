@@ -5,6 +5,7 @@ Arduino uses a flavour of the C++ programming language designed for use within t
 
 ### Data representation
 Any programming language must represent real-life information in some way in order to allow actions to be formed in response to this information.
+Please note that each subheading here has its own section in this document, so have a look there if you need 
 Data in C++ may be represented in 3 ways:
 * Literals
 	* Values directly typed into the code
@@ -15,7 +16,6 @@ Data in C++ may be represented in 3 ways:
 	* e.g. A variable *x* may represent the number 5 at the start of the program and the number 3 at the end
 * Return values
 	* The result of some *function*
-	* Functions are covered in the *functions* section, so look there for more information
 	* e.g. The function *func(x)* may give a *return value* of x+5, so *func(3)* would give a *return value* of 8
 
 These representation methods may be used interchangeably - anywhere you use a literal, you can also use a variable or a return value (and vice-versa).  
@@ -32,11 +32,14 @@ C++ splits data between *simple* and *complex* types, with many different exampl
 	* These data types are used to store **all** data in a C++ program
 * Complex:
 	* Stores multiple pieces of information, i.e. a collection of simple data
-	* Organises data to make the program
+	* Organises data to make the program easier to work with, but are not technically necessary for any program
 	* The 2 major complex data types in C++ are:
 		* **Arrays** - A list of data with all data being of the same type (e.g. there may be an **int** array, or a **char** array.
 		* **Objects** - A set of data, which may have different types to each-other
-			* Objects may also have operations associated with them (See the later section on **Objects** for more)
+			* Objects may also have operations associated with them (See the later section on **Objects** for more)  
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg2Nzg1ODg5LC0xNjc5Njc5MjgxXX0=
+eyJoaXN0b3J5IjpbNDMzMjk5Mzc1LC0xNjc5Njc5MjgxXX0=
 -->
