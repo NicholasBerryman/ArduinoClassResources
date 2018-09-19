@@ -22,8 +22,10 @@ These representation methods may be used interchangeably - anywhere you use a li
   
 Any data must also be given a *data type*. This *data type* tells the program what operations are allowed on that data (e.g. addition on numbers, not on letters).
 C++ splits data between *simple* and *complex* types, with many different examples of each:
-* Simple
+* Simple (AKA *primitive*)
+	* Only stores one piece of information, e.g. a single number, a single character
+	* C++ only supports 8 such simple data types:
+		* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDAyOTQwNjUsLTE2Nzk2NzkyODFdfQ
-==
+eyJoaXN0b3J5IjpbMTE3NTYyNjgwOCwtMTY3OTY3OTI4MV19
 -->
