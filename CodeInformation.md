@@ -11,8 +11,9 @@ Data in C++ may be represented in 3 ways:
 	* e.g. 4, 'a', "Hello World"
 * Variables
 	* Names given to a block of memory that contains some data.
-	* 
+	* Exact value encoded within a variable may change during program execution
+	* e.g. A variable $x$ may represent the number 5 at the start of the program and the number 3 at the end
 * Return values
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNTY5MjcxNiwtMTY3OTY3OTI4MV19
+eyJoaXN0b3J5IjpbMzgzNzYxNjk4LC0xNjc5Njc5MjgxXX0=
 -->
