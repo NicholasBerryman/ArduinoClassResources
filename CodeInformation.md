@@ -25,7 +25,8 @@ C++ splits data between *simple* and *complex* types, with many different exampl
 * Simple (AKA *primitive*)
 	* Only stores one piece of information, e.g. a single number, a single character
 	* C++ only supports 8 such simple data types:
-		* 
+		* **int** - Whole number between 2^32^ and -2^32^
+		*  **char** - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3NTYyNjgwOCwtMTY3OTY3OTI4MV19
+eyJoaXN0b3J5IjpbLTEzMzA0MjE2NywtMTY3OTY3OTI4MV19
 -->
