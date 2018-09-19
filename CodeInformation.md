@@ -17,7 +17,10 @@ Data in C++ may be represented in 3 ways:
 	* The result of some *function*
 	* Functions are covered in the *functions* section, so look there for more information
 	* e.g. The function *func(x)* may give a *return value* of x+5, so *func(3)* would give a *return value* of 8
-* 
+
+These representation methods may be used interchangeably - anywhere you use a literal, you can also use a variable or a return value (and vice-versa).  
+  
+Data must also be given a *type*, thi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMzI1MTMxMSwtMTY3OTY3OTI4MV19
+eyJoaXN0b3J5IjpbMTkwOTQzNDE5OCwtMTY3OTY3OTI4MV19
 -->
