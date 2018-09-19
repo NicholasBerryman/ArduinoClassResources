@@ -61,8 +61,21 @@ Variables are names given to a block of memory in the computer running your prog
 			* x = 5; (Assigns the value of *5* to the variable x, as declared above)
 			* y = x; (Assigns the value encoded by the variable x (in this case that's *5*) to the variable y, assuming y is already declared as an integer)
 		
-
+### Functions
+Functions are blocks of code that may be reused in multiple places without copy-pasting, and may be used to calculate 
+* **Syntax**
+	*  **Declaration**
+		* Variables in C++ must be declared before they are used. This is so that the program knows how much memory it should allocate for its variables
+		* <*data type*> <*name*>;
+			* **int** x; (Creates a variable called *x*, storing integers)
+			* **bool** trueOrFalse; (Creates a variable call *trueOrFalse*, storing boolean values)
+	* **Assignment**
+		* The value stored in a variable may be changed by *assigning* a new value
+		* The value assigned to a variable must be of the same type as the variable being assigned to (i.e. int variables should be given int values, char variables must be given char values)
+		* <*name*> *=* <*new value*>; (Note that *new value* may be a literal, a primitive, or a return value)
+			* x = 5; (Assigns the value of *5* to the variable x, as declared above)
+			* y = x; (Assigns the value encoded by the variable x (in this case that's *5*) to the variable y, assuming y is already declared as an integer)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MTgzMDU1NywtMTY3OTY3OTI4MV19
+eyJoaXN0b3J5IjpbMTE2MTUzNzkwNiwtMTY3OTY3OTI4MV19
 -->
