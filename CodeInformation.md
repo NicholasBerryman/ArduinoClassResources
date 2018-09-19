@@ -74,9 +74,11 @@ Function creation is complicated and beyond the scope of this document, so this 
 			*  x = Add( 5, 2 ); (Runs the *Add* function with parameters 5 and 2, and assigns the result to the variable x)
 			* x = Add( 10, Add( 5, 2 ) ) (Runs the *Add* function with parameters 5 and whatever the result of *Add( 5, 2 )* is (as per above), and assigns the final result to variable x)
 	* **Importing**
-		* Functions often aren't available by default, and so must be imported from some other
+		* Functions often aren't available by default, and so must be imported from some other file (known as a code library file)
+		* #include < <*library file name*> >
+			* #include <Math.h> (Allows you to use any function defined in the file *Math.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMjA4OTA4MiwtMTY3OTY3OTI4MV19
+eyJoaXN0b3J5IjpbMTE2NTAxNTk3OSwtMTY3OTY3OTI4MV19
 -->
