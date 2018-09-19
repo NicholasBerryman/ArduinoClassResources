@@ -1,4 +1,4 @@
-# Programming for Arduino
+# Programming Reference for Arduino
 ## C++
 ### Introduction
 Arduino uses a flavour of the C++ programming language designed for use within the Arduino IDE. As such all native C++ syntax features are supported, though not all native libraries are supported and many new, Arduino-specific libraries are available. 
@@ -20,8 +20,10 @@ Data in C++ may be represented in 3 ways:
 
 These representation methods may be used interchangeably - anywhere you use a literal, you can also use a variable or a return value (and vice-versa).  
   
-Any data must also be given a *data type*. This *data type* tells the program what operations are allowed on that data (e.g. addition on numbers
+Any data must also be given a *data type*. This *data type* tells the program what operations are allowed on that data (e.g. addition on numbers, not on letters).
+C++ splits data between *simple* and *complex* types, with many different examples of each:
+* Simple
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjgwODI5ODEsLTE2Nzk2NzkyODFdfQ
+eyJoaXN0b3J5IjpbLTE1NDAyOTQwNjUsLTE2Nzk2NzkyODFdfQ
 ==
 -->
