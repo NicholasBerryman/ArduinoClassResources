@@ -59,10 +59,10 @@ Variables are names given to a block of memory in the computer running your prog
 		* The value assigned to a variable must be of the same type as the variable being assigned to (i.e. int variables should be given int values, char variables must be given char values)
 		* <*name*> *=* <*new value*>; (Note that *new value* may be a literal, a primitive, or a return value)
 			* x = 5; (Assigns the value of *5* to the variable x, as declared above)
-			* y = x; (Assigns the value encoded by the variable x to the variab
+			* y = x; (Assigns the value encoded by the variable x (in this case that's *5*) to the variable y, assuming y is already declared as an integer)
 		
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ2MDk5NjAxLC0xNjc5Njc5MjgxXX0=
+eyJoaXN0b3J5IjpbMTA5MTgzMDU1NywtMTY3OTY3OTI4MV19
 -->
