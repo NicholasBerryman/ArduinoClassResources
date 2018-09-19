@@ -56,9 +56,12 @@ Variables are names given to a block of memory in the computer running your prog
 			* **bool** trueOrFalse; (Creates a variable call *trueOrFalse*, storing boolean values)
 	* **Assignment**
 		* The value stored in a variable may be changed by *assigning* a new value
-		* The *=* symbol is used to assign data
+		* The value assigned to a variable must be of the same type as the variable being assigned to (i.e. int variables should be given int values, char variables must be given char values)
+		* The *=* symbol is used to assign data to a variable
+		* 
+		
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyOTEwNTkxNiwtMTY3OTY3OTI4MV19
+eyJoaXN0b3J5IjpbLTI3ODEzMjM1NCwtMTY3OTY3OTI4MV19
 -->
