@@ -27,7 +27,9 @@ C++ splits data between *simple* and *complex* types, with many different exampl
 	* The major simple data types in c++ are:
 		* **int** - Whole number between 2^32^ and -2^32^ (int = *integer*)
 		* **float** - Number with a decimal point (float = *floating point number*)
-		*  **char** - Character on the non-extended ASCII table (see: http://www.asciitable.com/) (
+		*  **char** - Character on the non-extended ASCII table (see: http://www.asciitable.com/) (char = *character*)
+		* **bool** - Value representing *true* or *false* (bool = *boolean*, see: https://en.wikipedia.org/wiki/Boolean_algebra)
+	* These data types are used 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MTY4MTQ2MCwtMTY3OTY3OTI4MV19
+eyJoaXN0b3J5IjpbNjk1NjM1OTUzLC0xNjc5Njc5MjgxXX0=
 -->
