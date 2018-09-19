@@ -32,7 +32,10 @@ C++ splits data between *simple* and *complex* types, with many different exampl
 	* These data types are used to store **all** data in a C++ program
 * Complex:
 	* Stores multiple pieces of information, i.e. a collection of simple data
-	* The 
+	* The 2 major complex data types in C++ are:
+		* **Arrays** - A list of data with all data being of the same type (e.g. there may be an **int** array, or a **char** array.
+		* **Objects** - A set of 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MDM2NjM0OCwtMTY3OTY3OTI4MV19
+eyJoaXN0b3J5IjpbLTEwNTc3MzMwNzYsLTE2Nzk2NzkyODFdfQ
+==
 -->
