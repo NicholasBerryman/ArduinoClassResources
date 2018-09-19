@@ -5,7 +5,7 @@ The Arduino development platform utilises a flavour of the C++ programming langu
 There are countless C++ tutorials in website, video and book form that may be used to gain the C++ background necessary for Arduino programming.  
 The Arduino website also contains a reference sheet for all Arduino-specific programming information, though it may not make much sense until you are generally familiar with C++. This can be found at: https://www.arduino.cc/reference/en/
 
-This document also aims to provide a reference for beginners to C++ and Arduino programming.
+This document also aims to provide a reference for beginners to C++ and Arduino programming f.
 
 ## C++
 ### Introduction
@@ -13,7 +13,7 @@ Arduino uses a flavour of the C++ programming language designed for use within t
 
 ### Data representation
 Any programming language must represent real-life information in some way in order to allow actions to be formed in response to this information.  
-Please note that each subheading here has its own section in this document, so have a look there if you need more information.  
+  
 Data in C++ may be represented in 3 ways:
 * Literals
 	* Values or equations directly typed into the code
@@ -63,15 +63,15 @@ Variables are names given to a block of memory in the computer running your prog
 		
 ### Functions
 Functions are blocks of code that may be reused in multiple places without copy-pasting, and may give *return values*, i.e. the result of that function.  
-Function creation is covered in its own section later in this document, so this section will cover function use.
+Function creation is complicated and beyond the scope of this document, so this section will cover function use.
 * **Syntax**
 	*  **Calling**
 		* Functions in C++ may be *called*. When a function is *called* then the code within that function is executed before any code after the function call is  executed.
-		* Functions may be given *parameters*. *Pr
+		* Functions may be given *parameters*. *Parameters* are the pieces of data that functions use 
 		* <*function name*> ( <*parameters*> );
 			* **int** x; (Creates a variable called *x*, storing integers)
 			* **bool** trueOrFalse; (Creates a variable call *trueOrFalse*, storing boolean values)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMzA1NzI1MCwtMTY3OTY3OTI4MV19
+eyJoaXN0b3J5IjpbLTkzODUyOTE3MCwtMTY3OTY3OTI4MV19
 -->
