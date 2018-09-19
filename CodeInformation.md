@@ -66,11 +66,12 @@ Functions are blocks of code that may be reused in multiple places without copy-
 Function creation is covered in its own section later in this document, so this section will cover function use.
 * **Syntax**
 	*  **Calling**
-		* Functions in C++ may
-		* <*data type*> <*name*>;
+		* Functions in C++ may be *called*. When a function is *called* then the code within that function is executed before any code after the function call is  executed.
+		* Functions may be given *parameters*. *Pr
+		* <*function name*> ( <*parameters*> );
 			* **int** x; (Creates a variable called *x*, storing integers)
 			* **bool** trueOrFalse; (Creates a variable call *trueOrFalse*, storing boolean values)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMTg2NjkxMSwtMTY3OTY3OTI4MV19
+eyJoaXN0b3J5IjpbLTUwMzA1NzI1MCwtMTY3OTY3OTI4MV19
 -->
