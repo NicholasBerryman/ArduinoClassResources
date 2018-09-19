@@ -5,7 +5,7 @@ The Arduino development platform utilises a flavour of the C++ programming langu
 There are countless C++ tutorials in website, video and book form that may be used to gain the C++ background necessary for Arduino programming.  
 The Arduino website also contains a reference sheet for all Arduino-specific programming information, though it may not make much sense until you are generally familiar with C++. This can be found at: https://www.arduino.cc/reference/en/
 
-This document also aims to provide a reference for beginners to C++ and Arduino programming f.
+This document also aims to provide a reference for beginners to C++ and Arduino programming to assist in creating basic Arduino programs.
 
 ## C++
 ### Introduction
@@ -66,12 +66,13 @@ Functions are blocks of code that may be reused in multiple places without copy-
 Function creation is complicated and beyond the scope of this document, so this section will cover function use.
 * **Syntax**
 	*  **Calling**
-		* Functions in C++ may be *called*. When a function is *called* then the code within that function is executed before any code after the function call is  executed.
+		* Functions in C++ may be *called*. When a function is *called* then the code within that function is executed before any code after the function call is  executed. This code is often hidden from the person using the function (normally in some other file somewhere)
 		* Functions may be given *parameters*. *Parameters* are the pieces of data that functions use 
 		* <*function name*> ( <*parameters*> );
 			* **int** x; (Creates a variable called *x*, storing integers)
 			* **bool** trueOrFalse; (Creates a variable call *trueOrFalse*, storing boolean values)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzODUyOTE3MCwtMTY3OTY3OTI4MV19
+eyJoaXN0b3J5IjpbLTE0ODE3MTM4MzgsLTE2Nzk2NzkyODFdfQ
+==
 -->
