@@ -9,9 +9,10 @@ There are countless C++ tutorials in website, video and book form that may be us
 * http://cs.slu.edu/~goldwamh/publications/python2cpp.pdf (For those already familiar with programming in Python)  
   
 The Arduino website also contains a reference sheet for all Arduino-specific programming information, though it may not make much sense until you are generally familiar with C++. This can be found at: https://www.arduino.cc/reference/en/  
+Like with general C++ there are several Arduino tutorials online, b
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzcxNzQ2MTUsMTIwMDQ0MTgxMSwxNT
-QwMTA4NTIyLC0xMTUzMjk2NzIzLDE0Njc1NjQwMDksLTE2Nzk2
-NzkyODFdfQ==
+eyJoaXN0b3J5IjpbLTQzNDMzNTY2MSwtMTczNzE3NDYxNSwxMj
+AwNDQxODExLDE1NDAxMDg1MjIsLTExNTMyOTY3MjMsMTQ2NzU2
+NDAwOSwtMTY3OTY3OTI4MV19
 -->
