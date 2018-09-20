@@ -9,10 +9,11 @@ There are countless C++ tutorials in website, video and book form that may be us
   
 The Arduino website also contains a reference sheet for all Arduino-specific programming information, though it may not make much sense until you are generally familiar with C++. This can be found at: https://www.arduino.cc/reference/en/  
 Like with general C++ there are several Arduino tutorials online, but once you're familiar with C++, the best way to learn is probably through trying out some projects such as those found at https://www.instructables.com/id/Arduino-Projects/  
+* *Note:* Many of the coolest and most  projects are also the most difficult so it's probably
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyOTI3MTI0MywtMTczNzE3NDYxNSwxMj
-AwNDQxODExLDE1NDAxMDg1MjIsLTExNTMyOTY3MjMsMTQ2NzU2
-NDAwOSwtMTY3OTY3OTI4MV19
+eyJoaXN0b3J5IjpbNTM3MDE5ODkwLC0xNzM3MTc0NjE1LDEyMD
+A0NDE4MTEsMTU0MDEwODUyMiwtMTE1MzI5NjcyMywxNDY3NTY0
+MDA5LC0xNjc5Njc5MjgxXX0=
 -->
