@@ -1,5 +1,4 @@
-# Programming Reference for Arduino
-## Introduction
+# Learning Resources for Arduino
 The Arduino development platform utilises a flavour of the C++ programming language with some variations specific to the platform. As such any general C++ syntax (e.g. variable declaration, if-else, while loops, etc.) will also work with Arduino, although many native C++ functions and classes/objects (e.g. cin, cout, printf, scanf) will not work.  
   
 There are countless C++ tutorials in website, video and book form that may be used to gain the C++ background necessary for Arduino programming. Some good examples are:
@@ -9,10 +8,11 @@ There are countless C++ tutorials in website, video and book form that may be us
 * http://cs.slu.edu/~goldwamh/publications/python2cpp.pdf (For those already familiar with programming in Python)  
   
 The Arduino website also contains a reference sheet for all Arduino-specific programming information, though it may not make much sense until you are generally familiar with C++. This can be found at: https://www.arduino.cc/reference/en/  
-Like with general C++ there are several Arduino tutorials online, b
+Like with general C++ there are several Arduino tutorials online, but once you're familiar with C++, the best way to learn is probably through trying out some projects such as those found at https://www.instructables.com/id/Arduino-Projects/  
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNDMzNTY2MSwtMTczNzE3NDYxNSwxMj
+eyJoaXN0b3J5IjpbMTgyOTI3MTI0MywtMTczNzE3NDYxNSwxMj
 AwNDQxODExLDE1NDAxMDg1MjIsLTExNTMyOTY3MjMsMTQ2NzU2
 NDAwOSwtMTY3OTY3OTI4MV19
 -->
