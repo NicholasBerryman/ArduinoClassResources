@@ -26,3 +26,7 @@
 <p><img src="https://github.com/NicholasBerryman/ArduinoClassResources/blob/master/Diagrams/ServoWithSerialComms.png?raw=true" alt="enter image description here"></p>
 <h2 id="circuit-11---Servo-with-IR-Comms">Circuit 11 - Servo with IR Comms</h2>
 <p><img src="https://github.com/NicholasBerryman/ArduinoClassResources/blob/master/Diagrams/ServoWithIRComms_bb.png?raw=true" alt="enter image description here"></p>
+<h2 id="circuit-12">Circuit 12 - 2-Button Controller</h2>
+<p><img src="https://github.com/NicholasBerryman/ArduinoClassResources/blob/master/Diagrams/TwoButtonController_bb.png?raw=true" alt="enter image description here"></p>
+<h2 id="circuit-13">Circuit 13 - 2-Button Controller with LED Indicator</h2>
+<p><img src="https://github.com/NicholasBerryman/ArduinoClassResources/blob/master/Diagrams/TwoButtonControllerWithLED_bb.png?raw=true" alt="enter image description here"></p>
