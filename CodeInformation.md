@@ -12,8 +12,27 @@ Like with general C++ there are several Arduino tutorials online, but once you'r
 * *Note:* Many of the coolest and/or most useful projects are also the most difficult so it's probably best to start with a few boring, simple projects before moving on to these harder projects.  
 
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc4NTEzOTczLC0xNzM3MTc0NjE1LDEyMD
-A0NDE4MTEsMTU0MDEwODUyMiwtMTE1MzI5NjcyMywxNDY3NTY0
-MDA5LC0xNjc5Njc5MjgxXX0=
--->
+
+# Wireless Communications with Arduino
+One very powerful aspect of the Arduino is the ability to use it to communicate wirelessly between end devices. For Example, it may be used with a controller to make an RC robot, or it may be used to remotely transmit sensor data long distances to a central location, etc.
+
+### Common Methods:
+* Infrared (IR)
+  * Cheap
+  * Unidirectional
+  * Cannot pass walls
+  * Short range
+  * See: http://www.circuitbasics.com/arduino-ir-remote-receiver-tutorial/
+* Bluetooth
+  * Still fairly cheap
+  * Bidirectional
+  * Short range
+  * See: https://www.altronics.com.au/p/z6365-funduino-bluetooth-4.0-module/ And https://www.hackster.io/achindra/bluetooth-le-using-cc-41a-hm-10-clone-d8708e
+* Wi-Fi
+  * Bidirectional
+  * Can be long range if internet connection is available
+  * See: https://www.altronics.com.au/p/z6350-funduino-wifi-ethernet-cc3000-shield/ And https://learn.sparkfun.com/tutorials/pushing-data-to-datasparkfuncom/arduino--cc3000-shield
+* Low-bandwidth radio (XBee)
+  * Bidirectional
+  * Very long range
+  * See: https://www.littlebird.com.au/xbee-1mw-wire-antenna-series-1-802-15-4 And https://www.littlebird.com.au/xbee-usb-adapter-v2-atmega8u2 And https://www.norwegiancreations.com/2013/10/arduino-tutorial-1-lets-make-xbee-talk/
